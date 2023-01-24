@@ -1,5 +1,5 @@
 .mainDiv {
-    background-color: #f2f2f2;
+    background-color: whitesmoke;
     border: 1px solid #d9d9d9;
     border-radius: 5px;
     box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
@@ -38,7 +38,7 @@ html {
 
 .lasagna{
         width: auto;
-        height: 300px;
+        height: 350px;
     
 }
 
