@@ -7,6 +7,15 @@ html {
     background-color: blanchedalmond;
 }
 
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: rgb(185, 98, 17);
+}
+
 .divRecipes{
     background-color: #f2f2f2;
     border: 1px solid #d9d9d9;
@@ -16,6 +25,7 @@ html {
     padding: 10px;
     width: 600px;
 }
+
 @media only screen 
 and (min-device-width : 320px) 
 and (max-device-width : 480px) {
@@ -23,8 +33,9 @@ and (max-device-width : 480px) {
         width: 100%;
     }
     .book{
-        width: 100%;
+        width: 80%;
         height: auto;
+        margin-left: 100%;
     }
 }
 
